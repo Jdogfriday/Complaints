@@ -27,7 +27,9 @@
 
 <h1>Welcome to My Complaint Webpage!</h1>
 <img src="https://www.kasandbox.org/programming-images/animals/cat.png"width="203">
+<img src="https://www.kasandbox.org/programming-images/animals/dog_sleeping-puppy.png"width="240">
 <h2>Please get started below</h2> 
+<link src
 <button html="">File Complaint Here</button>
 <h3>Types of Complaints</h3>
 <ul>
